@@ -1,3 +1,5 @@
+![Azure Static Web Apps CI/CD](https://github.com/imranahmedkhan/my-static-web-app/workflows/Azure%20Static%20Web%20Apps%20CI/CD/badge.svg)
+
 # Static Web Apps
 
 This repository contains apps that can be used with as a starting point for some MS Learn Modules. because everyone has their own preference for their JavaScript frameworks/library, you can choose which one you prefer.
